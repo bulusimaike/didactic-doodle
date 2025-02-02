@@ -1,0 +1,15 @@
+＃这些是支持的资金模型平台
+
+github：＃最多替换为4个 github赞助商用户名，例如[用户1，用户2 ]
+Patreon：＃用单个 Patreon用户名代替
+Open_Collective：＃替换为单个开放集体用户名
+ko_fi：＃替换为单个 ko-fi用户名
+Tidelift：Tidelift平台名称/包装名称替换，例如npm/babel
+community_bridge：＃用单个社区桥梁项目名称替换
+Liberapay：＃替换为单个 Liberapay用户名
+Esseaghunt：＃用单个问题替换用户名替换
+lfx_crowdunding：＃用单个 lfx众筹项目名称替换
+极性：＃用单个极地用户名替换
+buy_me_a_coffee：＃替换为单一购买我的咖啡用户名
+thys_dev：＃替换为一个 thess.dev用户名
+自定义：＃＃最多替换 4个自定义赞助url，例如[  'link1'，'link2' ]
